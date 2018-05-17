@@ -75,8 +75,5 @@ ejson.to_json();
 
 
 
-### EJson原理解析
-http://km.oa.com/group/25354/articles/show/340395
-
 ### 贡献者
 @davinliu(刘达); 
